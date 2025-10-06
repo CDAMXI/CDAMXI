@@ -1,6 +1,11 @@
 <!-- Banner -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:9370DB&height=180&section=header&text=Welcome%20to%20my%20GitHub!%20👋&fontSize=35&fontColor=ffffff)
 
+<!-- Logo -->
+<p align="center">
+  <img src="https://github.com/CDAMXI/CDAMXI/blob/main/logo.png" alt="CDAMXI Logo" width="160"/>
+</p>
+
 # 👨‍💻 I'm CDAMXI
 
 🎓 **Computer Science student** at *Universitat Politècnica de València (UPV)*  
