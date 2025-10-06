@@ -1,10 +1,12 @@
 <!-- Banner -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:9370DB&height=180&section=header&text=Welcome%20to%20my%20GitHub!%20👋&fontSize=35&fontColor=ffffff)
-# 👨‍💻 I'm CDAMXI
+
+# 👨‍💻 Carlos Achong Martín (CDAMXI)
 
 🎓 **Computer Science student** at *Universitat Politècnica de València (UPV)*  
 💡 Passionate about **Artificial Intelligence**, **Software Engineering**, and **Data Structures**  
-💻 Experienced with **C**, **Java**, **Python**, and **SQL**
+💻 Experienced with **C**, **Java**, **Python**, and **SQL**  
+📚 Constantly learning and exploring new technologies  
 
 ---
 
@@ -14,6 +16,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=database&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -22,6 +25,13 @@
 
 ### 🧠 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CDAMXI&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000)
+
+---
+
+### 🧩 LeetCode Activity
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/CDAMXI)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/CDAMXI?ext=contest&theme=tokyonight&font=Baloo%202)
 
 ---
 
