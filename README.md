@@ -3,8 +3,9 @@
 
 <!-- Logo -->
 <p align="center">
-  <img src="https://github.com/CDAMXI/CDAMXI/blob/main/logo.png" alt="CDAMXI Logo" width="160"/>
+  <img src="https://raw.githubusercontent.com/CDAMXI/CDAMXI/main/logo.png" alt="CDAMXI Logo" width="160"/>
 </p>
+
 
 # 👨‍💻 I'm CDAMXI
 
