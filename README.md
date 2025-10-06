@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 ¡Hola! Soy Carlos Daniel Achong Martín (CDAMXI)
+# 👋 ¡Hola! Soy CDAMXI
 
 🎓 Estudiante de Ingeniería Informática en la UPV  
 💡 Interesado en IA, desarrollo de software y ciencia de datos  
