@@ -1,7 +1,11 @@
 <!-- Banner -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:9370DB&height=180&section=header&text=Welcome%20to%20my%20GitHub!%20👋&fontSize=35&fontColor=ffffff)
 
-# 👨‍💻 Carlos Achong Martín (CDAMXI)
+<!-- Animated waving hand -->
+<h1 align="center">
+  Hi, I'm Carlos Achong Martín (CDAMXI) 
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="wave"/>
+</h1>
 
 🎓 **Computer Science student** at *Universitat Politècnica de València (UPV)*  
 💡 Passionate about **Artificial Intelligence**, **Software Engineering**, and **Data Structures**  
@@ -15,7 +19,6 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=database&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
