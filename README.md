@@ -1,11 +1,6 @@
 <!-- Banner -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:FF8C00,100:FF4500&height=180&section=header&text=Hi,%20I'm%20Carlos%20👋&fontSize=38&fontColor=ffffff&fontAlignY=40)
 
-<!-- Subtle shadow effect simulation -->
-<p align="center" style="margin-top:-25px;">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" alt="waving hand"/>
-</p>
-
 # 👨‍💻 Carlos Achong (CDAMXI)
 
 🎓 **Computer Science student** at *Universitat Politècnica de València (UPV)*  
