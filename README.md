@@ -1,7 +1,12 @@
 <!-- Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:9370DB&height=180&section=header&text=Hi,%20I'm%20Carlos%20👋&fontSize=38&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:9370DB&height=180&section=header&text=Hi,%20I'm%20Carlos&fontSize=38&fontColor=ffffff)
 
-# 👨‍💻 Carlos Achong Martín (CDAMXI)
+<!-- Animated waving hand -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" alt="waving hand"/>
+</p>
+
+# 👨‍💻 Carlos Achong (CDAMXI)
 
 🎓 **Computer Science student** at *Universitat Politècnica de València (UPV)*  
 💡 Passionate about **Artificial Intelligence**, **Software Engineering**, and **Data Structures**  
