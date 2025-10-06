@@ -6,7 +6,6 @@
   <img src="https://raw.githubusercontent.com/CDAMXI/CDAMXI/main/logo.png" alt="CDAMXI Logo" width="160"/>
 </p>
 
-
 # 👨‍💻 I'm CDAMXI
 
 🎓 **Computer Science student** at *Universitat Politècnica de València (UPV)*  
