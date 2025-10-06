@@ -13,3 +13,5 @@
 ## 🌐 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/carlos-daniel-achong-mart%C3%ADn-840525305/)
 - [GitHub](https://github.com/CDAMXI)
+
+![Mi logo]("C:\Users\Carlo\Downloads\ChatGPT Image Oct 5, 2025, 01_32_08 PM.png")
