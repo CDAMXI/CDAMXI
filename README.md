@@ -13,6 +13,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CDAMXI&layout=compact&theme=tokyonight)
 
 ## 🌐 Encuéntrame en:
-- [LinkedIn]([https://www.linkedin.com/in/carlosdanielachongmartin](https://www.linkedin.com/in/carlos-daniel-achong-mart%C3%ADn-840525305/))
+- [LinkedIn]([[https://www.linkedin.com/in/carlosdanielachongmartin](https://www.linkedin.com/in/carlos-daniel-achong-mart%C3%ADn-840525305/)](https://www.linkedin.com/in/carlos-daniel-achong-mart%C3%ADn-840525305/?trk=opento_sprofile_topcard))
 - [GitHub](https://github.com/CDAMXI)
 
