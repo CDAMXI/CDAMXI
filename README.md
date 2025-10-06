@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:9370DB&height=180&section=header&text=Hi,%20I'm%20Carlos%20👋&fontSize=38&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:FF8C00&height=180&section=header&text=Hi,%20I'm%20Carlos&fontSize=38&fontColor=ffffff)
 
 # 👨‍💻 Carlos Achong (CDAMXI)
 
@@ -41,4 +41,4 @@
 ---
 
 <!-- Footer -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:9370DB,100:1E90FF&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,100:FFD700&height=120&section=footer)
