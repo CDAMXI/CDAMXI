@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**CDAMXI/CDAMXI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 ¡Hola! Soy Carlos Daniel Achong Martín (CDAMXI)
 
-Here are some ideas to get you started:
+🎓 Estudiante de Ingeniería Informática en la UPV  
+💡 Interesado en IA, desarrollo de software y ciencia de datos  
+💻 Programo en C, Java, Python y SQL  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Mis estadísticas de GitHub
+![CDAMXI's GitHub stats](https://github-readme-stats.vercel.app/api?username=CDAMXI&show_icons=true&theme=tokyonight)
+
+## 🧠 Lenguajes más usados
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CDAMXI&layout=compact&theme=tokyonight)
+
+## 🌐 Encuéntrame en:
+- [LinkedIn](https://www.linkedin.com/in/carlosdanielachongmartin)
+- [GitHub](https://github.com/CDAMXI)
+
