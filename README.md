@@ -20,22 +20,17 @@
 ---
 
 ### 📊 GitHub Statistics
-![CDAMXI's GitHub stats dark](https://github-readme-stats.vercel.app/api?username=CDAMXI&show_icons=true&theme=tokyonight&hide_border=true#gh-dark-mode-only)
-![CDAMXI's GitHub stats light](https://github-readme-stats.vercel.app/api?username=CDAMXI&show_icons=true&theme=default&hide_border=true#gh-light-mode-only)
-
----
+![CDAMXI's GitHub stats](https://github-readme-stats.vercel.app/api?username=CDAMXI&show_icons=true&theme=transparent&title_color=0E6BA8&icon_color=0E6BA8&text_color=FFFFFF&hide_border=true)
 
 ### 🧠 Most Used Languages
-![Top Langs dark](https://github-readme-stats.vercel.app/api/top-langs/?username=CDAMXI&layout=compact&theme=tokyonight&hide_border=true#gh-dark-mode-only)
-![Top Langs light](https://github-readme-stats.vercel.app/api/top-langs/?username=CDAMXI&layout=compact&theme=default&hide_border=true#gh-light-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CDAMXI&layout=compact&theme=transparent&title_color=0E6BA8&text_color=FFFFFF&hide_border=true)
 
 ---
 
 ### 🧩 LeetCode Activity
 [![LeetCode](https://img.shields.io/badge/LeetCode-0E6BA8?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/CDAMXI)
 
-![LeetCode Stats dark](https://leetcard.jacoblin.cool/CDAMXI?ext=contest&theme=tokyonight#gh-dark-mode-only)
-![LeetCode Stats light](https://leetcard.jacoblin.cool/CDAMXI?ext=contest&theme=light#gh-light-mode-only)
+![LeetCode Stats](https://leetcard.jacoblin.cool/CDAMXI?ext=contest&theme=dark&font=Baloo%202)
 
 ---
 
