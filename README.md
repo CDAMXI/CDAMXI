@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:FF8C00,100:FF4500&height=180&section=header&text=Hi,%20I'm%20Carlos%20👋&fontSize=38&fontColor=ffffff&fontAlignY=40)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0A2342,50:10316B,100:0E6BA8&height=180&section=header&text=Hi,%20I'm%20Carlos%20👋&fontSize=38&fontColor=ffffff&fontAlignY=40)
 
 # 👨‍💻 Carlos Achong (CDAMXI)
 
@@ -11,34 +11,34 @@
 ---
 
 ### ⚙️ Tech Stack
-![C](https://img.shields.io/badge/C-FFB300?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-FF8C00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FF6F00?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-FF4500?style=for-the-badge&logo=database&logoColor=white)
-![Git](https://img.shields.io/badge/Git-FF6347?style=for-the-badge&logo=git&logoColor=white)
+![C](https://img.shields.io/badge/C-0E6BA8?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-10316B?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0A2342?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4A6FA5?style=for-the-badge&logo=database&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0E6BA8?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ### 📊 GitHub Statistics
-![CDAMXI's GitHub stats](https://github-readme-stats.vercel.app/api?username=CDAMXI&show_icons=true&theme=transparent&title_color=FF8C00&icon_color=FF4500&text_color=FFFFFF&hide_border=true)
+![CDAMXI's GitHub stats](https://github-readme-stats.vercel.app/api?username=CDAMXI&show_icons=true&theme=transparent&title_color=0E6BA8&icon_color=0E6BA8&text_color=FFFFFF&hide_border=true)
 
 ### 🧠 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CDAMXI&layout=compact&theme=transparent&title_color=FF8C00&text_color=FFFFFF&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CDAMXI&layout=compact&theme=transparent&title_color=0E6BA8&text_color=FFFFFF&hide_border=true)
 
 ---
 
 ### 🧩 LeetCode Activity
-[![LeetCode](https://img.shields.io/badge/LeetCode-FF8C00?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/CDAMXI)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0E6BA8?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/CDAMXI)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/CDAMXI?ext=contest&theme=dark&font=Baloo%202)
 
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF4500?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-daniel-achong-mart%C3%ADn-840525305/)
-[![GitHub](https://img.shields.io/badge/GitHub-FF8C00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CDAMXI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-daniel-achong-mart%C3%ADn-840525305/)
+[![GitHub](https://img.shields.io/badge/GitHub-0A2342?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CDAMXI)
 
 ---
 
 <!-- Footer -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,50:FF8C00,100:FFD700&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0E6BA8,50:10316B,100:0A2342&height=120&section=footer)
