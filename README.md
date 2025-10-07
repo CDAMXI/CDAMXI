@@ -6,7 +6,8 @@
 🎓 **Computer Science student** at *Universitat Politècnica de València (UPV)*  
 💡 Passionate about **Artificial Intelligence**, **Software Engineering**, and **Data Structures**  
 💻 Experienced with **C**, **Java**, **Python**, and **SQL**  
-📚 Constantly learning and exploring new technologies  
+🚀 Always striving to write clean, efficient, and scalable code  
+📚 Constantly learning, building, and exploring new technologies  
 
 ---
 
@@ -21,9 +22,16 @@
 
 ### 📊 GitHub Statistics
 ![CDAMXI's GitHub stats](https://github-readme-stats.vercel.app/api?username=CDAMXI&show_icons=true&theme=transparent&title_color=0E6BA8&icon_color=0E6BA8&text_color=FFFFFF&hide_border=true)
+  
+💬 *+350 commits this year and counting!*  
+📈 *Actively contributing and improving through hands-on projects.*
+
+---
 
 ### 🧠 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CDAMXI&layout=compact&theme=transparent&title_color=0E6BA8&text_color=FFFFFF&hide_border=true)
+
+🧩 *Exploring new languages and tools to broaden my developer toolkit.*
 
 ---
 
@@ -32,11 +40,15 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/CDAMXI?ext=contest&theme=dark&font=Baloo%202)
 
+💭 *Sharpening my problem-solving skills daily on LeetCode.*  
+
 ---
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-daniel-achong-mart%C3%ADn-840525305/)
 [![GitHub](https://img.shields.io/badge/GitHub-0A2342?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CDAMXI)
+
+✨ *Let’s connect and build something great together!*
 
 ---
 
