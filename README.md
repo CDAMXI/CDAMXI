@@ -12,10 +12,10 @@
 ---
 
 ### ⚙️ Tech Stack
-![C](https://img.shields.io/badge/C-0E6BA8?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-10316B?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-0A2342?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4A6FA5?style=for-the-badge&logo=database&logoColor=white)
+![Java](https://img.shields.io/badge/C-0E6BA8?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Java-10316B?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/Python-0A2342?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/SQL-4A6FA5?style=for-the-badge&logo=database&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-0E6BA8?style=for-the-badge&logo=git&logoColor=white)
 
 ---
