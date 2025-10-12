@@ -13,13 +13,13 @@
 
 ## ⚙️ Tech Stack
 
-![C](https://img.shields.io/badge/C-0E6BA8?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-10316B?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-0A2342?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4A6FA5?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-0E6BA8?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-10316B?style=for-the-badge&logo=github&logoColor=white)
 ![VS%20Code](https://img.shields.io/badge/VS%20Code-0A2342?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![C](https://img.shields.io/badge/C-0E6BA8?style=for-the-badge&logo=c&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-4A6FA5?style=for-the-badge&logo=linux&logoColor=white)
 
 ---
