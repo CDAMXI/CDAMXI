@@ -5,7 +5,7 @@
 
 🎓 Computer Science student at *Universitat Politècnica de València (UPV)*  
 💡 Passionate about **Artificial Intelligence**, **Software Engineering**, and **Data Structures**  
-💻 Experienced with **C**, **Java**, **Python**, and **SQL**  
+💻 Experienced with **Java**, **Python**, **SQL**, and **C**  
 🚀 Focused on writing clean, efficient, and scalable code  
 🧠 Always learning, building, and exploring new technologies  
 
@@ -16,10 +16,10 @@
 ![Java](https://img.shields.io/badge/Java-10316B?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-0A2342?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4A6FA5?style=for-the-badge&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-0E6BA8?style=for-the-badge&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-0E6BA8?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-10316B?style=for-the-badge&logo=github&logoColor=white)
 ![VS%20Code](https://img.shields.io/badge/VS%20Code-0A2342?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![C](https://img.shields.io/badge/C-0E6BA8?style=for-the-badge&logo=c&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-4A6FA5?style=for-the-badge&logo=linux&logoColor=white)
 
 ---
@@ -36,7 +36,7 @@
 
 ### 🚧 [Proyect](https://github.com/CDAMXI/Proyect)
 > A personal sandbox to explore ideas, test new technologies, and create fun side projects.  
-> **Languages:** Mixed (Python, Java, SQL, C)  
+> **Languages:** Mixed (Python, Java)  
 > **Focus:** Creativity · Experimentation · Continuous learning
 
 ---
