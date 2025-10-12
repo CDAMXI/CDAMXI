@@ -13,14 +13,14 @@
 
 ## ⚙️ Tech Stack
 
-![Java](https://img.shields.io/badge/Java-10316B?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-0A2342?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4A6FA5?style=for-the-badge&logo=mysql&logoColor=white)
-![C](https://img.shields.io/badge/C-0E6BA8?style=for-the-badge&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/Git-0E6BA8?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-10316B?style=for-the-badge&logo=github&logoColor=white)
-![VS%20Code](https://img.shields.io/badge/VS%20Code-0A2342?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-4A6FA5?style=for-the-badge&logo=linux&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)
+![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -36,7 +36,7 @@
 
 ### 🚧 [Proyect](https://github.com/CDAMXI/Proyect)
 > A personal sandbox to explore ideas, test new technologies, and create fun side projects.  
-> **Languages:** Mixed (Python, Java)  
+> **Languages:** Java · Python  
 > **Focus:** Creativity · Experimentation · Continuous learning
 
 ---
@@ -60,8 +60,8 @@
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-daniel-achong-mart%C3%ADn-840525305/)
-[![GitHub](https://img.shields.io/badge/GitHub-0A2342?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CDAMXI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-daniel-achong-mart%C3%ADn-840525305/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CDAMXI)
 
 ✨ Let’s connect and build something great together!
 
