@@ -34,10 +34,18 @@
 
 ---
 
-### 🚧 [Proyect]([https://github.com/CDAMXI/Proyect](https://github.com/CDAMXI/Proyects))
-> A personal sandbox to explore ideas, test new technologies, and create fun side projects.  
+### 🚧 [Proyects](https://github.com/CDAMXI/Proyects)
+> A personal sandbox with small experimental projects and prototypes.  
 > **Languages:** Java · Python  
-> **Focus:** Creativity · Experimentation · Continuous learning
+> **Focus:** Ideas, tools, fun side builds, applying what I learn.  
+>  
+> Some contents include:  
+> • **Games / TicTacToe** with Minimax AI  
+> • **Tools** like currency converters, unit converters  
+> • **Others** like fetching match data (NextMatchRequest)  
+> • **Courses** projects in progress (e.g. Harvard AI)  
+>  
+> Please explore the repo to see my experiments and side projects in action!
 
 ---
 
