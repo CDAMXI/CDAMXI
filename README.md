@@ -34,7 +34,7 @@
 
 ---
 
-### 🚧 [Proyect](https://github.com/CDAMXI/Proyect)
+### 🚧 [Proyect]([https://github.com/CDAMXI/Proyect](https://github.com/CDAMXI/Proyects))
 > A personal sandbox to explore ideas, test new technologies, and create fun side projects.  
 > **Languages:** Java · Python  
 > **Focus:** Creativity · Experimentation · Continuous learning
