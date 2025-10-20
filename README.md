@@ -54,7 +54,7 @@
 ![CDAMXI's GitHub stats](https://github-readme-stats.vercel.app/api?username=CDAMXI&show_icons=true&theme=transparent&title_color=0E6BA8&icon_color=0E6BA8&text_color=FFFFFF&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CDAMXI&layout=compact&theme=transparent&title_color=0E6BA8&text_color=FFFFFF&hide_border=true)
 
-> 📈 **350+ commits in 2025** — building, learning, and improving through hands-on projects.
+> 📈 **400+ commits in 2025** — building, learning, and improving through hands-on projects.
 
 ---
 
