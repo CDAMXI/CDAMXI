@@ -12,14 +12,14 @@
 
 ## ⚙️ Tech Stack
 
-![Java](https://img.shields.io/badge/Java-0B3C5D?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-0B3C5D?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-0B3C5D?style=for-the-badge&logo=csharp&logoColor=white)
-![C](https://img.shields.io/badge/C-0B3C5D?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-0B3C5D?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-0B3C5D?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-0B3C5D?style=for-the-badge&logo=github&logoColor=white)
-![VS%20Code](https://img.shields.io/badge/VS%20Code-0B3C5D?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Java](https://img.shields.io/badge/Java-7F1D1D?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1F4E79?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-3730A3?style=for-the-badge&logo=csharp&logoColor=white)
+![C](https://img.shields.io/badge/C-334155?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0F766E?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-92400E?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
+![VS%20Code](https://img.shields.io/badge/VS%20Code-475569?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
