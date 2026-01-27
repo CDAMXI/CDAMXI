@@ -4,10 +4,9 @@
 ## 👨‍💻 Carlos Achong (CDAMXI)
 
 🎓 Computer Science student at *Universitat Politècnica de València (UPV)*  
-💡 Passionate about **Artificial Intelligence**, **Software Engineering**, and **Data Structures**  
-💻 Experienced with **Java**, **Python**, **SQL**, and **C**  
-🚀 Focused on writing clean, efficient, and scalable code  
-🧠 Always learning, building, and exploring new technologies  
+💡 Interested in **Artificial Intelligence**, **Software Engineering**, and **Data Structures**  
+💻 Comfortable with **Java**, **Python**, **SQL**, and **C**  
+🚀 Focused on clean, efficient, and scalable code  
 
 ---
 
@@ -24,28 +23,39 @@
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Repositories
 
-### 🧩 [LeetCode Practice](https://leetcode.com/CDAMXI/)
-> Repository of algorithmic challenges and problem-solving exercises.  
-> **Languages:** Python · Java  
-> **Focus:** Data Structures, Graphs, Dynamic Programming, Greedy, and AI Search  
-> 📈 Constantly improving through daily problem solving.
+### 🚧 [Projects](https://github.com/CDAMXI/Projects)
+> Personal sandbox of small projects and prototypes.
+>
+> **Highlights**
+> - Games (e.g. TicTacToe)
+> - Tools (currency and unit converters)
+> - Small experiments and utilities
+>
+> **Tech:** Python · Java · C
 
 ---
 
-### 🚧 [Proyects](https://github.com/CDAMXI/Proyects)
-> A personal sandbox with small experimental projects and prototypes.  
-> **Languages:** Java · Python  
-> **Focus:** Ideas, tools, fun side builds, applying what I learn.  
->  
-> Some contents include:  
-> • **Games / TicTacToe** with Minimax AI  
-> • **Tools** like currency converters, unit converters  
-> • **Others** like fetching match data (NextMatchRequest)  
-> • **Courses** projects in progress (e.g. Harvard AI)  
->  
-> Please explore the repo to see my experiments and side projects in action!
+### 🧩 [LeetCode](https://github.com/CDAMXI/LeetCode)
+> Repository with my solutions and attempts for LeetCode problems.
+>
+> **Focus:** Data Structures & Algorithms, problem-solving skills.  
+> **Tech:** Java · Python  
+>
+> 🔗 LeetCode profile: https://leetcode.com/CDAMXI/
+
+---
+
+## 🎓 Coursework (UPV)
+
+Academic repositories (class exercises and lab work). Included for completeness, not as flagship projects.
+
+- [Actividades-CSD](https://github.com/CDAMXI/Actividades-CSD) — Java activities for Concurrency & Distributed Systems  
+- [Practs_CSD](https://github.com/CDAMXI/Practs_CSD) — Practical labs for Concurrency & Distributed Systems
+- [Lab_BDA](https://github.com/CDAMXI/Lab_BDA) — Practical labs for Databases and Information Systems
+
+---
 
 ---
 
@@ -54,24 +64,12 @@
 ![CDAMXI's GitHub stats](https://github-readme-stats.vercel.app/api?username=CDAMXI&show_icons=true&theme=transparent&title_color=0E6BA8&icon_color=0E6BA8&text_color=FFFFFF&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CDAMXI&layout=compact&theme=transparent&title_color=0E6BA8&text_color=FFFFFF&hide_border=true)
 
-> 📈 **400+ commits in 2025** — building, learning, and improving through hands-on projects.
-
----
-
-## 🧠 LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/CDAMXI?ext=contest&theme=dark&font=Baloo%202)
-
-> 💭 Sharpening my problem-solving and algorithmic thinking skills every day.
-
 ---
 
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-daniel-achong-mart%C3%ADn-840525305/)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CDAMXI)
-
-✨ Let’s connect and build something great together!
 
 ---
 
