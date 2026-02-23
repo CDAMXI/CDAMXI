@@ -19,56 +19,47 @@
 ![SQL](https://img.shields.io/badge/SQL-0F766E?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-92400E?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
-![VS%20Code](https://img.shields.io/badge/VS%20Code-475569?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-475569?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
 ## 📌 Featured Repositories
 
 ### 🔥 [HabitForge](https://github.com/CDAMXI/habitforge)
-> Habit tracking application focused on consistency, structure, and long-term behavioral improvement.
->
+> Habit tracking application focused on consistency, structure, and long-term behavioral improvement.  
 > **Focus:** Productivity systems, habit building, structured tracking.  
-> **Tech:** (define stack once finalized — e.g. Python · Web · AI integration)
 
 ---
 
 ### 🚧 [Projects](https://github.com/CDAMXI/Projects)
-> Personal sandbox of small projects and prototypes.
->
-> **Highlights**
-> - Games (e.g. TicTacToe)
-> - Tools (currency and unit converters)
-> - Small experiments and utilities
->
-> **Tech:** Python · Java · C · C#
+> Personal sandbox of small projects and prototypes.  
+> **Tech:** Python · Java · C · C#  
 
 ---
 
 ### 🧩 [LeetCode](https://github.com/CDAMXI/LeetCode)
-> Repository with my solutions and attempts for LeetCode problems.
->
-> **Focus:** Data Structures & Algorithms, problem-solving skills.  
+> Data Structures & Algorithms practice repository.  
 > **Tech:** Java · Python  
->
-> 🔗 LeetCode profile: https://leetcode.com/CDAMXI/
-
----
-
-## 🎓 Coursework (UPV)
-
-Academic repositories (class exercises and lab work). Included for completeness, not as flagship projects.
-
-- [Actividades-CSD](https://github.com/CDAMXI/Actividades-CSD) — Java activities for Concurrency & Distributed Systems  
-- [Practs_CSD](https://github.com/CDAMXI/Practs_CSD) — Practical labs for Concurrency & Distributed Systems  
-- [Lab_BDA](https://github.com/CDAMXI/Lab_BDA) — Practical labs for Databases and Information Systems  
+> 🔗 https://leetcode.com/CDAMXI/
 
 ---
 
 ## 📊 GitHub Statistics
 
-![CDAMXI's GitHub stats](https://github-readme-stats.vercel.app/api?username=CDAMXI&show_icons=true&theme=transparent&title_color=0B3C5D&icon_color=0B3C5D&text_color=FFFFFF&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CDAMXI&layout=compact&theme=transparent&title_color=0B3C5D&text_color=FFFFFF&hide_border=true)
+<table>
+<tr>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api?username=CDAMXI&show_icons=true&theme=default&hide_border=true&cache_seconds=86400" />
+
+</td>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CDAMXI&layout=compact&theme=default&hide_border=true&cache_seconds=86400" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -80,4 +71,4 @@ Academic repositories (class exercises and lab work). Included for completeness,
 ---
 
 <!-- Footer -->
-![Footer: Thanks for visiting](https://capsule-render.vercel.app/api?type=waving&color=0:1F4E79,100:0B3C5D&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1F4E79,100:0B3C5D&height=120&section=footer)
