@@ -40,7 +40,6 @@
 ### 🧩 [LeetCode](https://github.com/CDAMXI/LeetCode)
 > Data Structures & Algorithms practice repository.  
 > **Tech:** Java · Python  
-> 🔗 https://leetcode.com/CDAMXI/
 
 ---
 
