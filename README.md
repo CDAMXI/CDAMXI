@@ -4,16 +4,15 @@
 ## 🧠 HabitFlow
 
 🤖 AI-assisted habit tracking system built with **Google AI Studio / Gemini**  
-🌍 Supports multilingual habit input  
-🧩 Converts natural language into structured habit data  
-🎯 Experimental project focused on AI integration patterns  
+🌍 Multilingual natural-language habit input  
+🧩 Structured data extraction from free text  
+🎯 Experimental AI integration project  
 
 ---
 
 ## ⚙️ Tech Stack
 
 ![Node.js](https://img.shields.io/badge/Node.js-1F4E79?style=for-the-badge&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-7F1D1D?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3730A3?style=for-the-badge&logo=typescript&logoColor=white)
 ![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-334155?style=for-the-badge&logo=google&logoColor=white)
 ![Gemini API](https://img.shields.io/badge/Gemini_API-0F766E?style=for-the-badge&logo=google&logoColor=white)
@@ -24,17 +23,48 @@
 ## 📌 Core Features
 
 ### 🔥 AI-Powered Habit Creation
-> Users describe habits in natural language and receive structured, actionable entries.  
-> **Focus:** Structured output, semantic parsing, AI prompt design.  
+> Natural language → structured habit entries.  
+> Focus: prompt engineering, structured output, validation logic.
 
 ---
 
-### 🌍 Multilingual Intent Detection
-> Habits can be written in different languages while preserving consistent structure.  
-> **Focus:** Language-agnostic AI interpretation.  
+### 🌍 Multilingual Input Handling
+> Consistent structure regardless of input language.  
+> Focus: semantic interpretation through LLM.
 
 ---
 
-### 🧩 Automatic Emoji Mapping
-> Each habit is assigned a context-aware emoji.  
-> **Focus:** Semantic consistency and UI clarity. 
+### 🧩 Semantic Emoji Assignment
+> Context-aware emoji mapping per habit.  
+> Focus: UI clarity and semantic consistency.
+
+---
+
+## 🧠 Architecture Overview
+
+HabitFlow separates responsibilities into:
+
+- **UI Layer** – user interaction and rendering  
+- **AI Layer** – Gemini prompt + structured output request  
+- **Parsing Layer** – validation and normalization of AI response  
+- **Domain Layer** – habit representation and logic  
+
+This structure allows AI to be a component, not the system itself.
+
+---
+
+## 🌐 Live Demo
+
+https://ai.studio/apps/a791d63f-46bc-4c53-9b8f-12824ffaf4e9
+
+---
+
+## 🎯 Project Scope
+
+HabitFlow is a technical exploration of:
+
+- AI-assisted structured data generation  
+- Integration patterns for LLMs inside web apps  
+- Clean separation between business logic and AI inference  
+
+Not intended as a production behavioral optimization platform.
