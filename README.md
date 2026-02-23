@@ -25,6 +25,14 @@
 
 ## 📌 Featured Repositories
 
+### 🔥 [HabitForge](https://github.com/CDAMXI/habitforge)
+> Habit tracking application focused on consistency, structure, and long-term behavioral improvement.
+>
+> **Focus:** Productivity systems, habit building, structured tracking.  
+> **Tech:** (define stack once finalized — e.g. Python · Web · AI integration)
+
+---
+
 ### 🚧 [Projects](https://github.com/CDAMXI/Projects)
 > Personal sandbox of small projects and prototypes.
 >
