@@ -1,84 +1,114 @@
 <!-- Banner -->
 ![Header: Carlos Achong](https://capsule-render.vercel.app/api?type=waving&color=0:0B3C5D,100:1F4E79&height=180&section=header&text=Hi,%20I'm%20Carlos%20👋&fontSize=38&fontColor=ffffff&fontAlignY=40)
 
-## 👨‍💻 Carlos Achong (CDAMXI)
+# Carlos Achong
+Computer Science Student | Software Engineering Focus
 
-🎓 Computer Science student at *Universitat Politècnica de València (UPV)*  
-💡 Interested in **Artificial Intelligence**, **Software Engineering**, and **Data Structures**  
-💻 Comfortable with **Java**, **Python**, **SQL**, **C**, and **C#**  
-🚀 Focused on clean, efficient, and scalable code  
-
----
-
-## ⚙️ Tech Stack
-
-![Java](https://img.shields.io/badge/Java-7F1D1D?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-1F4E79?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-3730A3?style=for-the-badge&logo=csharp&logoColor=white)
-![C](https://img.shields.io/badge/C-334155?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-0F766E?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-92400E?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
-![VS%20Code](https://img.shields.io/badge/VS%20Code-475569?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+🎓 Universitat Politècnica de València (UPV)  
+💻 Java · Python · SQL · C · C#  
+⚙️ Focused on clean architecture, maintainability, and performance  
 
 ---
 
-## 📌 Featured Repositories
+## About Me
 
-### 🔥 [HabitForge](https://github.com/CDAMXI/habitforge)
-> Habit tracking application focused on consistency, structure, and long-term behavioral improvement.
->
-> **Focus:** Productivity systems, habit building, structured tracking.  
-> **Tech:** (define stack once finalized — e.g. Python · Web · AI integration)
+I am a Computer Science student with strong foundations in software engineering and data structures.  
+I build structured, maintainable systems and focus on writing clear, efficient code.
 
----
-
-### 🚧 [Projects](https://github.com/CDAMXI/Projects)
-> Personal sandbox of small projects and prototypes.
->
-> **Highlights**
-> - Games (e.g. TicTacToe)
-> - Tools (currency and unit converters)
-> - Small experiments and utilities
->
-> **Tech:** Python · Java · C · C#
+Currently interested in:
+- Backend development
+- Scalable system design
+- Data-driven applications
+- AI-powered productivity tools
 
 ---
 
-### 🧩 [LeetCode](https://github.com/CDAMXI/LeetCode)
-> Repository with my solutions and attempts for LeetCode problems.
->
-> **Focus:** Data Structures & Algorithms, problem-solving skills.  
-> **Tech:** Java · Python  
->
-> 🔗 LeetCode profile: https://leetcode.com/CDAMXI/
+## Technical Skills
+
+**Languages**
+- Java
+- Python
+- C
+- C#
+- SQL
+
+**Tools & Technologies**
+- Git
+- GitHub
+- VS Code
+- Relational databases
+- Object-oriented design
+- Algorithmic problem solving
 
 ---
 
-## 🎓 Coursework (UPV)
+## Selected Projects
 
-Academic repositories (class exercises and lab work). Included for completeness, not as flagship projects.
+### HabitForge
+🔗 https://github.com/CDAMXI/habitforge
 
-- [Actividades-CSD](https://github.com/CDAMXI/Actividades-CSD) — Java activities for Concurrency & Distributed Systems  
-- [Practs_CSD](https://github.com/CDAMXI/Practs_CSD) — Practical labs for Concurrency & Distributed Systems  
-- [Lab_BDA](https://github.com/CDAMXI/Lab_BDA) — Practical labs for Databases and Information Systems  
+Habit tracking system focused on structured behavioral improvement.
+
+Key aspects:
+- Modular architecture
+- Clear domain modeling
+- Data-driven habit tracking
+- Designed for future AI-based recommendation integration
 
 ---
 
-## 📊 GitHub Statistics
+### Projects Repository
+🔗 https://github.com/CDAMXI/Projects
 
-![CDAMXI's GitHub stats](https://github-readme-stats.vercel.app/api?username=CDAMXI&show_icons=true&theme=transparent&title_color=0B3C5D&icon_color=0B3C5D&text_color=FFFFFF&hide_border=true&cache_seconds=86400)
+Collection of independent implementations and small systems.
+
+Includes:
+- Game logic implementations (e.g. TicTacToe)
+- Utility tools (currency and unit converters)
+- Algorithmic experiments
+
+Focus: problem-solving, clean implementation, core CS fundamentals.
+
+---
+
+### LeetCode Practice
+🔗 https://github.com/CDAMXI/LeetCode  
+Profile: https://leetcode.com/CDAMXI/
+
+Structured problem-solving repository.
+
+Focus:
+- Data Structures
+- Algorithms
+- Complexity analysis
+- Implementation accuracy
+
+---
+
+## Academic Work
+
+Repositories containing coursework and lab implementations:
+
+- Actividades-CSD — Concurrency & Distributed Systems
+- Practs_CSD — Concurrency & Distributed Systems labs
+- Lab_BDA — Databases and Information Systems labs
+
+Included for completeness and transparency.
+
+---
+
+## GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CDAMXI&show_icons=true&theme=transparent&title_color=0B3C5D&icon_color=0B3C5D&text_color=FFFFFF&hide_border=true&cache_seconds=86400)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CDAMXI&layout=compact&theme=transparent&title_color=0B3C5D&text_color=FFFFFF&hide_border=true&cache_seconds=86400)
 
 ---
 
-## 🌐 Connect with Me
+## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-daniel-achong-mart%C3%ADn-840525305/)
-[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CDAMXI)
+LinkedIn:  
+https://www.linkedin.com/in/carlos-daniel-achong-mart%C3%ADn-840525305/
 
----
-
-<!-- Footer -->
-![Footer: Thanks for visiting](https://capsule-render.vercel.app/api?type=waving&color=0:1F4E79,100:0B3C5D&height=120&section=footer)
+GitHub:  
+https://github.com/CDAMXI
