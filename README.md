@@ -67,8 +67,9 @@ Academic repositories (class exercises and lab work). Included for completeness,
 
 ## 📊 GitHub Statistics
 
-![CDAMXI's GitHub stats](https://github-readme-stats.vercel.app/api?username=CDAMXI&show_icons=true&theme=transparent&title_color=0B3C5D&icon_color=0B3C5D&text_color=FFFFFF&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CDAMXI&layout=compact&theme=transparent&title_color=0B3C5D&text_color=FFFFFF&hide_border=true)
+![CDAMXI's GitHub stats](https://github-readme-stats.vercel.app/api?username=CDAMXI&show_icons=true&theme=transparent&title_color=0B3C5D&icon_color=0B3C5D&text_color=FFFFFF&hide_border=true&cache_seconds=86400)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CDAMXI&layout=compact&theme=transparent&title_color=0B3C5D&text_color=FFFFFF&hide_border=true&cache_seconds=86400)
 
 ---
 
