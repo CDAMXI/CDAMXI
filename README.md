@@ -44,25 +44,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<table>
-<tr>
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api?username=CDAMXI&show_icons=true&theme=default&hide_border=true&cache_seconds=86400" />
-
-</td>
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CDAMXI&layout=compact&theme=default&hide_border=true&cache_seconds=86400" />
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-daniel-achong-mart%C3%ADn-840525305/)
