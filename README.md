@@ -3,10 +3,10 @@
 
 ## 👨‍💻 Carlos Achong (CDAMXI)
 
-🎓 Computer Science student at *Universitat Politècnica de València (UPV)*  
-💡 Interested in **Artificial Intelligence**, **Software Engineering**, and **Data Structures**  
-💻 Comfortable with **Java**, **Python**, **SQL**, **C**, and **C#**  
-🚀 Focused on clean, efficient, and scalable code  
+🎓 Computer Science student at *Universitat Politècnica de València (UPV)* · 3rd year  
+💡 Building toward a career in **Artificial Intelligence** and **Software Engineering**  
+💻 Working primarily in **Java**, **Python**, **SQL**, **C**, and **C#**  
+🔍 Currently deepening knowledge in **Data Structures & Algorithms** and **system design**
 
 ---
 
@@ -26,20 +26,24 @@
 ## 📌 Featured Repositories
 
 ### 🔥 [HabitForge](https://github.com/CDAMXI/habitforge)
-> Habit tracking application focused on consistency, structure, and long-term behavioral improvement.  
-> **Focus:** Productivity systems, habit building, structured tracking.  
-
----
-
-### 🚧 [Projects](https://github.com/CDAMXI/Projects)
-> Personal sandbox of small projects and prototypes.  
-> **Tech:** Python · Java · C · C#  
+> Habit tracking application built in [lenguaje] with a layered architecture separating data, logic, and presentation.  
+> Implements persistent storage via [SQLite / JSON / etc.], a task scheduling system, and a CLI/GUI interface designed for daily use.  
+> **What it demonstrates:** object-oriented design, data modeling, separation of concerns.  
+> **Tech:** [rellena con lo real]
 
 ---
 
 ### 🧩 [LeetCode](https://github.com/CDAMXI/LeetCode)
-> Data Structures & Algorithms practice repository.  
-> **Tech:** Java · Python  
+> Ongoing solutions to Data Structures & Algorithms problems. Currently [X]+ problems solved, including [X] medium and [X] hard.  
+> Problems are organized by topic: arrays, trees, dynamic programming, graphs, and more.  
+> **Tech:** Java · Python
+
+---
+
+### 🏗️ [Projects](https://github.com/CDAMXI/Projects)
+> Collection of academic and personal prototypes.  
+> Includes [menciona 1-2 proyectos concretos, ej: "a graph-based pathfinding visualizer in Python" o "a CRUD app with a relational DB in Java"].  
+> **Tech:** Python · Java · C · C#
 
 ---
 
