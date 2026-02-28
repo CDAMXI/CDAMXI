@@ -6,7 +6,7 @@
 🎓 Computer Science student at *Universitat Politècnica de València (UPV)* · 3rd year  
 💡 Building toward a career in **Artificial Intelligence** and **Software Engineering**  
 💻 Working primarily in **Java**, **Python**, **SQL**, **C**, and **C#**  
-🔍 Currently deepening knowledge in **Data Structures & Algorithms** and **system design**
+🔍 Currently deepening knowledge in **Data Structures & Algorithms** and system design
 
 ---
 
@@ -25,24 +25,24 @@
 
 ## 📌 Featured Repositories
 
-### 🔥 [HabitForge](https://github.com/CDAMXI/habitforge)
-> Habit tracking application built in [lenguaje] with a layered architecture separating data, logic, and presentation.  
-> Implements persistent storage via [SQLite / JSON / etc.], a task scheduling system, and a CLI/GUI interface designed for daily use.  
-> **What it demonstrates:** object-oriented design, data modeling, separation of concerns.  
-> **Tech:** [rellena con lo real]
-
----
-
 ### 🧩 [LeetCode](https://github.com/CDAMXI/LeetCode)
-> Ongoing solutions to Data Structures & Algorithms problems. Currently [X]+ problems solved, including [X] medium and [X] hard.  
-> Problems are organized by topic: arrays, trees, dynamic programming, graphs, and more.  
+> Ongoing DSA practice. Problems organized by topic: arrays, trees, graphs, dynamic programming, and more.
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/CDAMXI?theme=dark&font=source_code_pro&border=0)](https://leetcode.com/u/CDAMXI/)
+
 > **Tech:** Java · Python
 
 ---
 
+### 🔥 [HabitForge](https://github.com/CDAMXI/habitforge)
+> AI-powered habit tracker built with TypeScript and the Gemini API. Started from a Google AI Studio template to explore LLM integration, automated habit generation, and semantic emoji mapping.  
+> Structured with a Node.js backend and a Vite-powered frontend.  
+> **Tech:** TypeScript · HTML · CSS · Vite · Node.js · Gemini API
+
+---
+
 ### 🏗️ [Projects](https://github.com/CDAMXI/Projects)
-> Collection of academic and personal prototypes.  
-> Includes [menciona 1-2 proyectos concretos, ej: "a graph-based pathfinding visualizer in Python" o "a CRUD app with a relational DB in Java"].  
+> Personal prototypes and academic work in progress.  
 > **Tech:** Python · Java · C · C#
 
 ---
