@@ -40,10 +40,9 @@
 
 ---
 
-### 🔥 [Votify]([[https://github.com/CDAMXI/Votify](https://github.com/CDAMXI/Votify)])
-> AI-powered habit tracker built with TypeScript and the Gemini API. Started from a Google AI Studio template to explore LLM integration, automated habit generation, and semantic emoji mapping.  
-> Structured with a Node.js backend and a Vite-powered frontend.  
-> **Tech:** TypeScript · HTML · CSS · Vite · Node.js · Gemini API
+### 🗳️ [Votify](https://github.com/CDAMXI/Votify)
+> Platform for managing competitions and voting workflows. Supports multi-judge evaluation, score submission with decimal precision, and single-vote enforcement per participant — designed for hackathon and academic contest scenarios.  
+> **Tech:** C# · Visual Studio
 
 ---
 
