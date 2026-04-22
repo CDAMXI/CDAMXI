@@ -40,7 +40,7 @@
 
 ---
 
-### 🔥 [HabitForge](https://github.com/CDAMXI/habitforge)
+### 🔥 [Votify]([https://github.com/CDAMXI/habitforge](https://github.com/CDAMXI/Votify))
 > AI-powered habit tracker built with TypeScript and the Gemini API. Started from a Google AI Studio template to explore LLM integration, automated habit generation, and semantic emoji mapping.  
 > Structured with a Node.js backend and a Vite-powered frontend.  
 > **Tech:** TypeScript · HTML · CSS · Vite · Node.js · Gemini API
