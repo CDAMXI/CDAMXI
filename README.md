@@ -1,12 +1,11 @@
 <!-- Banner -->
 ![Header: Carlos Achong](https://capsule-render.vercel.app/api?type=waving&color=0:0B3C5D,100:1F4E79&height=180&section=header&text=Hi,%20I'm%20Carlos%20👋&fontSize=38&fontColor=ffffff&fontAlignY=40)
 
-## 👨‍💻 Carlos Achong (CDAMXI)
+## Carlos Achong
 
-🎓 Computer Science student at *Universitat Politècnica de València (UPV)* · 3rd year  
-💡 Building toward a career in **Artificial Intelligence** and **Software Engineering**  
-💻 Working primarily in **Java**, **Python**, **SQL**, **C**, and **C#**  
-🔍 Currently deepening knowledge in **Data Structures & Algorithms** and system design
+🎓 Computer Engineering · Software Engineering · UPV (Universitat Politècnica de València) · 3rd year  
+💻 Working in **Java**, **Python**, **C#**, **C**, and **SQL**  
+🤖 Building AI automation tools and academic software systems  
 
 ---
 
@@ -23,30 +22,40 @@
 
 ---
 
-## 📌 Featured Repositories
+## 📊 GitHub Activity
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CDAMXI&show_icons=true&theme=dark&hide_border=true&title_color=1F4E79&icon_color=1F4E79)](https://github.com/CDAMXI)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CDAMXI&layout=compact&theme=dark&hide_border=true&title_color=1F4E79)](https://github.com/CDAMXI)
+
+---
+
+## 📌 Featured Projects
+
+### 🗳️ [Votify](https://github.com/CDAMXI/Votify)
+Platform for managing hackathons and academic competitions. Supports multi-judge panels, decimal score submission, and enforces one vote per participant per round. Role-based architecture separates administrators, judges, and participants at the data layer.  
+**Tech:** C# · Entity Framework 6 · PostgreSQL (Supabase) · Npgsql · Visual Studio
+
+---
+
+### 🤖 [Projects](https://github.com/CDAMXI/Projects)
+Personal and academic software including:
+- **ATLAS** — Telegram bot with AI-powered daily briefings (Claude API + APScheduler). Covers tech, finance, and current events with a Q&A mode.
+- **PDF Summarizer** — Python automation that monitors a folder with `watchdog` and generates summaries on file drop.
+
+**Tech:** Python · Java · C · C#
+
+---
 
 ### 🧩 [LeetCode](https://github.com/CDAMXI/LeetCode)
-> Ongoing DSA practice. Problems organized by topic: arrays, trees, graphs, dynamic programming, and more.
+DSA practice organized by topic: arrays, trees, graphs, and dynamic programming.
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/CDAMXI?theme=dark&font=source_code_pro&border=0)](https://leetcode.com/u/CDAMXI/)
 
-> **Tech:** Java · Python
+**Tech:** Java · Python
 
 ---
 
-### 🏗️ [Projects](https://github.com/CDAMXI/Projects)
-> Personal prototypes and academic work in progress.  
-> **Tech:** Python · Java · C · C#
-
----
-
-### 🗳️ [Votify](https://github.com/CDAMXI/Votify)
-> Platform for managing competitions and voting workflows. Supports multi-judge evaluation, score submission with decimal precision, and single-vote enforcement per participant — designed for hackathon and academic contest scenarios.  
-> **Tech:** C# · Visual Studio
-
----
-
-## 🌐 Connect with Me
+## 🌐 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-daniel-achong-mart%C3%ADn-840525305/)
 [![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CDAMXI)
