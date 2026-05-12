@@ -36,11 +36,8 @@ Platform for managing hackathons and academic competitions. Supports multi-judge
 
 ---
 
-### 🤖 [Projects](https://github.com/CDAMXI/Projects)
-Personal and academic software including:
-- **ATLAS** — Telegram bot with AI-powered daily briefings (Claude API + APScheduler). Covers tech, finance, and current events with a Q&A mode.
-- **PDF Summarizer** — Python automation that monitors a folder with `watchdog` and generates summaries on file drop.
-
+### 🏗️ [Projects](https://github.com/CDAMXI/Projects)
+Collection of Python and Java programs: console games, CLI utilities, and API integrations. Focus on control flow, input validation, and clean code structure.  
 **Tech:** Python · Java · C · C#
 
 ---
