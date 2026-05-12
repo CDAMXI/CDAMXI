@@ -26,7 +26,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=CDAMXI&theme=dark&hide_border=true&ring=1F4E79&fire=1F4E79&currStreakLabel=1F4E79)](https://github.com/CDAMXI)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CDAMXI&layout=compact&theme=dark&hide_border=true&title_color=1F4E79&langs_count=6)](https://github.com/CDAMXI)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=CDAMXI&theme=darkhub&no-frame=true&column=6&margin-w=4)](https://github.com/CDAMXI)
 
 ---
 
